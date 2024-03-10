@@ -1,5 +1,5 @@
-# Path Queries in a Graph
-This project implements a directed acyclic graph (DAG) in Java using a linked list representation. It supports various path queries within the graph using `GraphDriver`, `Graph`, and `Node` classes. The user interacts with the program through the command line interface, providing input files containing triples and querying paths between specified nodes.
+# Directed Cyclic Graph
+This project implements a directed cyclic graph (DAG) in Java using a linked list representation. It supports various path queries within the graph using `GraphDriver`, `Graph`, and `Node` classes. The user interacts with the program through the command line interface, providing input files containing triples and querying paths between specified nodes.
 
 ## Design Overview
 The project is structured around a hierarchical relationship between classes, facilitating modularity and code reuse. At the core of the design is the Graph class, which serves as the main entity for managing the directed cyclic graph. This class encapsulates various operations related to graph manipulation and path queries.
